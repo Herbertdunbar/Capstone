@@ -1,7 +1,15 @@
 h1{
-    color: green
+    color: black
 }
 
 .how label{
     display: block;
+}
+
+input{
+    display: block;
+}
+
+input[type=radio]{
+    display: inline-block;
 }

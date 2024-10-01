@@ -1,5 +1,8 @@
 body{
-    background-color: bisque;
+    background-color:bisque;
+    padding: 1rem;
 }
 
-#registration-page
+.card{
+    display: inline-block;
+}
